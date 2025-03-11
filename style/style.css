@@ -1,0 +1,11 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.header-box {
+    display: flex;
+    background-color: #ff6900;
+    justify-content: center;
+}
