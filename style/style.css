@@ -7,7 +7,8 @@
 .header-box {
     display: flex;
     background-color: #ff6900;
-    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .d-flex {
@@ -15,7 +16,8 @@
 }
 
 .boolean-logo {
-     
+    height: 27px;
+    margin: 16px;
 }
 
 .list-style-none {
@@ -25,4 +27,8 @@
 .navtxt {
     text-decoration: none;
     color: white;
+}
+
+.mx-10 {
+    margin: 0px 10px;
 }
