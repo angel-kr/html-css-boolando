@@ -9,3 +9,16 @@
     background-color: #ff6900;
     justify-content: center;
 }
+
+.d-flex {
+    display: flex;
+}
+
+.boolean-logo {
+     
+}
+
+.list-style-none {
+    list-style: none;
+}
+
