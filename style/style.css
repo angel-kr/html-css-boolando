@@ -34,3 +34,17 @@
 .mx-10 {
     margin: 0px 10px;
 }
+
+.card-flex {
+    justify-content: center;
+    gap: 16px;
+    padding-top: 45px;
+}
+
+.card-pic {
+    max-width: 350px;
+}
+
+.price {
+    color: red;
+}
